@@ -33,7 +33,11 @@
 	<div class="login registration">
 		<div class="wrapper">
 			<div class="reg-header text-center">
-				<h2>Library management system</h2>
+				<h2>Library Management System</h2>
+                <h3 class="text-light">Developed By:</h3>
+                <p class="text-light">Umme Aiman Mahima</p>
+                <p class="text-light">Fahima Khanam Borsha</p>
+                <p class="text-light">Anika Shormila</p>
 				<div class="gap-30"></div>
                 <div class="gap-30"></div>
 			</div>
